@@ -1,4 +1,4 @@
-import dayjs from "dayjs";
+import dayjs from "dayjs"; //imported to implement the dates 
 
 export const MyWords = (props) => {
     return (
